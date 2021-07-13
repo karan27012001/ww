@@ -159,7 +159,7 @@ body{
     .blog-post{
         padding: 2.5rem;
         flex-direction: column;
-        margin-top: 20%;
+        margin-top: 10%;
     }
     .blog-post_img{
         min-width: 100%;
